@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    color: #629368;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    line-height: 1.5rem;
+    font-size: 1.2vw;
+}
+h3{
+    font-size: 1.3vw;
+}
+a{
+    color: black;
+    font-size: 1.2vw;
+}
+.page{
+    display: flex;
+}
+#first_2_div{
+    display: flex;
+    justify-content: end;
+}
+#second_2_div{
+    display: flex;
+    justify-content: end;
+}
+.about_us{
+background-color: #f2f2f2;
+
+}
+.what_we{
+    background-color: #f0faf1;
+}
+.how_we{
+    background-color: #f0faf1;
+
+}
+.contact{
+background-color: #9fd8a5;
+}
+.web_pages_div{
+    width: 10rem;
+    height: 12rem;
+    padding: 35px;
+}
+.book img{
+    width: 45rem;
+    height: 35rem;
+}
+.web_pages{
+    margin-left: 7%;
+    margin-top: 2%;
+}
+.page{
+    margin: 3rem;
+}
+@media only screen and (max-width: 992px) {
+    
+  }
+  @media only screen and (max-width: 768px) {
+    
+}
+@media only screen and (max-width: 576px) {
+    
+}
